@@ -1,0 +1,17 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+click==8.1.2
+colorama==0.4.4
+distlib==0.3.4
+filelock==3.6.0
+idna==3.3
+itsdangerous==2.1.2
+MarkupSafe==2.1.1
+numpy==1.22.3
+platformdirs==2.5.2
+pygame==2.1.2
+requests==2.27.1
+six==1.16.0
+source==1.2.0
+urllib3==1.26.9
+virtualenv==20.14.1
