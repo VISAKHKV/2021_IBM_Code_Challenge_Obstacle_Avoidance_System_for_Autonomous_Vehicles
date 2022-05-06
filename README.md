@@ -41,3 +41,9 @@ The program also constructs a vehicle movement visualisation which allows the es
 
 1. We started out with Ultrasonic sensor simulation for a differential drive vehicle for obstacle avoidance but it was later determined that incorporating a path plan might not be possible in that specific state for that model.
 2. Modeling vehicle velocity based on the constructed path.
+
+## Contributors
+
+1. Ajay
+2. Visakh
+3. Nihal
